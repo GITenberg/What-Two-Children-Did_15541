@@ -1,0 +1,35 @@
+_repo: What-Two-Children-Did_15541
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15541-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chittenden, Charlotte E. (Charlotte Elizabeth)
+    alias: Chittenden, Charlotte Elizabeth
+    birthdate: 1854
+    deathdate: 1906
+    gutenberg_agent_id: '6113'
+    url: http://www.gutenberg.org/2009/agents/6113
+description: ''
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Weddings -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Seaside resorts -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Fatherless families -- Juvenile fiction'
+title: What Two Children Did
+url: http://www.gutenberg.org/ebooks/15541
